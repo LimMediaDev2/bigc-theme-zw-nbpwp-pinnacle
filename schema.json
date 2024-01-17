@@ -424,6 +424,12 @@
         "label": "Top Menu Background Color",
         "force_reload": true,
         "id": "topMenu-bgColor"
+      },
+      {
+        "type": "color",
+        "label": "Top Menu border Color",
+        "force_reload": true,
+        "id": "topMenu-borderColor"
       }
     ]
   },
@@ -1500,6 +1506,18 @@
     "name": "Newsletter",
     "settings": [
       {
+        "type": "input",
+        "label": "Newsletter Title",
+        "force_reload": true,
+        "id": "newsletter_title"
+      },
+      {
+        "type": "input",
+        "label": "Newsletter Description",
+        "force_reload": true,
+        "id": "newsletter_description"
+      },
+      {
         "type": "color",
         "label": "Newsletter Font Color",
         "force_reload": true,
@@ -1541,11 +1559,27 @@
     "name": "Newsletter Popup",
     "settings": [
       {
+        "type": "input",
+        "label": "Newsletter Popup Title",
+        "force_reload": true,
+        "id": "newsletter_popup_title"
+      },
+      {
+        "type": "input",
+        "label": "Newsletter Popup Description",
+        "force_reload": true,
+        "id": "newsletter_popup_description"
+      },
+      {
         "type": "select",
         "label": "Popup Visibility",
         "id": "popup_visibility",
         "force_reload": true,
         "options": [
+          {
+            "value": "popup-active-on-refresh",
+            "label": "Popup Active (shows every time home page loads)"
+          },
           {
             "value": "popup-active",
             "label": "Popup Active (shows once every 24 hours or when browser is closed.)"
@@ -2025,6 +2059,12 @@
         ]
       },
       {
+        "type": "checkbox",
+        "label": "Show Blog Images in Feed",
+        "force_reload": true,
+        "id": "show_blog_images_in_feed"
+      },
+      {
         "type": "select",
         "label": "Latest News Grid-width",
         "id": "recent_news_layout",
@@ -2170,6 +2210,12 @@
         "label": "Enable product thumbnail carousel",
         "force_reload": true,
         "id": "product_thumbnail_carousel"
+      },
+      {
+        "type": "checkbox",
+        "label": "Show Qty Selection On Product",
+        "force_reload": true,
+        "id": "show_product_quantity_box"
       },
       {
         "type": "color",
@@ -2797,6 +2843,44 @@
         "label": "Product Card Background Color",
         "force_reload": true,
         "id": "card-bgColor"
+      },
+      {
+        "type": "font",
+        "label": "Product Card Button Font family",
+        "force_reload": true,
+        "id": "buttons-fontFamily",
+        "options": [
+          {
+            "group": "Anton",
+            "label": "Anton",
+            "value": "Google_Anton"
+          },
+          {
+            "group": "IBM Plex Sans",
+            "label": "IBM Plex Sans",
+            "value": "IBM+Plex+Sans_700"
+          },
+          {
+            "group": "IBM Plex Sans Condensed",
+            "label": "IBM Plex Sans Condensed",
+            "value": "IBM+Plex+Sans+Condensed_700"
+          },
+          {
+            "group": "Lato",
+            "label": "Lato Bold",
+            "value": "Google_Lato_700"
+          },
+          {
+            "group": "Lato Condensed",
+            "label": "Lato Condensed Bold",
+            "value": "Google_Lato+Condensed_700"
+          },
+          {
+            "group": "Racing Sans One",
+            "label": "Racing Sans One",
+            "value": "Google_Racing+Sans+One"
+          }
+        ]
       },
       {
         "type": "color",
