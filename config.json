@@ -269,7 +269,7 @@
     "swatch_option_size": "22x22",
     "social_icon_placement_top": false,
     "social_icon_placement_bottom": "bottom_none",
-    "geotrust_ssl_common_name": "",
+"geotrust_ssl_common_name": "",
     "geotrust_ssl_seal_size": "M",
     "navigation_design": "alternate",
     "content_page_layout": "no-sidenav",
@@ -312,8 +312,8 @@
       "name": "Euro",
       "id": "euro",
       "meta": {
-        "desktop_screenshot": "desktop_euro.png",
-        "mobile_screenshot": "mobile_euro.png",
+        "desktop_screenshot": "desktop_euro.jpg",
+        "mobile_screenshot": "mobile_euro.jpg",
         "description": "Pinnacle is a flexible and feature-rich theme designed to sell more. Its classic left navigation is perfect for stores with multiple products and categories, and its highly customizable theme editor lets you tailor your store to perfection. Powerful enough to handle any size of inventory, Pinnacle is ideal for startups and enterprise stores alike.",
         "demo_url": "http://pinnacle-euro-demo.mybigcommerce.com/",
         "optimized_for": [
@@ -905,7 +905,7 @@
         "card-brand-name": false,
         "card-sku": false,
         "card-brand-sku-separate-lines": false,
-        "card-brand-2-lines": false,
+"card-brand-2-lines": false,
         "card-sku-2-lines": false,
         "price_ranges": false,
         "msrp-price": true,
@@ -923,8 +923,8 @@
       "name": "Impact",
       "id": "impact",
       "meta": {
-        "desktop_screenshot": "desktop_impact.png",
-        "mobile_screenshot": "mobile_impact.png",
+        "desktop_screenshot": "desktop_impact.jpg",
+        "mobile_screenshot": "mobile_impact.jpg",
         "description": "Pinnacle is a flexible and feature-rich theme designed to sell more. It's classic left navigation is perfect for stores with multiple products and categories, and it’s highly customizable theme editor lets you tailor your store to perfection. Powerful enough to handle any size of inventory, Pinnacle is ideal for startups and enterprise stores alike.",
         "demo_url": "http://pinnacle-impact-demo.mybigcommerce.com/",
         "optimized_for": [
@@ -1410,7 +1410,7 @@
         "card-brand-name": false,
         "card-sku": false,
         "card-brand-sku-separate-lines": false,
-        "card-brand-2-lines": false,
+"card-brand-2-lines": false,
         "card-sku-2-lines": false,
         "price_ranges": false,
         "msrp-price": true,
@@ -1426,8 +1426,8 @@
       "name": "Sport",
       "id": "sport",
       "meta": {
-        "desktop_screenshot": "desktop_sport.png",
-        "mobile_screenshot": "mobile_sport.png",
+        "desktop_screenshot": "desktop_sport.jpg",
+        "mobile_screenshot": "mobile_sport.jpg",
         "description": "Pinnacle is a flexible and feature-rich theme designed to sell more. It's classic left navigation is perfect for stores with multiple products and categories, and it’s highly customizable theme editor lets you tailor your store to perfection. Powerful enough to handle any size of inventory, Pinnacle is ideal for startups and enterprise stores alike.",
         "demo_url": "http://pinnacle-sport-demo.mybigcommerce.com/",
         "optimized_for": [
@@ -1540,6 +1540,7 @@
         "input-border-color": "#ffcb07",
         "input-bg-color": "#3d451d",
         "input-border-color-active": "#ebebeb",
+        "input-bg-color": "#ffffff",
         "input-disabled-bg": "#ffffff",
         "select-bg-color": "#ffffff",
         "select-arrow-color": "#828282",
@@ -1915,7 +1916,7 @@
         "card-brand-name": false,
         "card-sku": false,
         "card-brand-sku-separate-lines": false,
-        "card-brand-2-lines": false,
+"card-brand-2-lines": false,
         "card-sku-2-lines": false,
         "price_ranges": false,
         "msrp-price": true,
@@ -1931,8 +1932,8 @@
       "name": "Tech",
       "id": "tech",
       "meta": {
-        "desktop_screenshot": "desktop_tech.png",
-        "mobile_screenshot": "mobile_tech.png",
+        "desktop_screenshot": "desktop_tech.jpg",
+        "mobile_screenshot": "mobile_tech.jpg",
         "description": "Pinnacle is a flexible and feature-rich theme designed to sell more. It's classic left navigation is perfect for stores with multiple products and categories, and it’s highly customizable theme editor lets you tailor your store to perfection. Powerful enough to handle any size of inventory, Pinnacle is ideal for startups and enterprise stores alike.",
         "demo_url": "http://pinnacle-tech-demo.mybigcommerce.com/",
         "optimized_for": [
